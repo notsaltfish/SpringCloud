@@ -1,4 +1,4 @@
-##该项目是一个简单的SpringCloud demo项目
+## 该项目是一个简单的SpringCloud demo项目
 1. cloud-config-repo 存放配置封建仓库
 2. cloud-config-server 获取配置文件的仓库
 3. cloud-euraka-server 注册服务
