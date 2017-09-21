@@ -1,0 +1,4 @@
+CREATE TABLE `user` (
+       `id` VARCHAR(50) NOT NULL DEFAULT '',
+       `username` VARCHAR(50) DEFAULT NULL,
+      PRIMARY KEY (`id`))ENGINE=INNODB DEFAULT CHARSET=utf8;
